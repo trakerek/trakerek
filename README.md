@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**trakerek/trakerek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- karta 1: ogólne staty -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=trakerek&show_icons=true" alt="GitHub stats" />
+  </a>
 
-Here are some ideas to get you started:
+  <!-- karta 2: streak (ciąg aktywności) -->
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=trakerek" alt="GitHub Streak" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- karta 3: top languages -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trakerek&layout=compact" alt="Top Langs" />
+  </a>
+
+</div>
